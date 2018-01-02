@@ -1,5 +1,4 @@
 # mit-lab2
-<p>在kern/pmap.c中修改部分代码</p>
 ## Exercise 1
 ### boot_alloc()
 ```
